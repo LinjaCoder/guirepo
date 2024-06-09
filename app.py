@@ -1,3 +1,4 @@
+#app showing in mouse events
 import sys
 
 from PyQt5.QtCore import Qt
